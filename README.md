@@ -6,3 +6,4 @@ duplicate chapter 13 from Bryan "happygitwithr"
 * adds another header
 * adds bullet list
 * finishes
+"append via shell" 
