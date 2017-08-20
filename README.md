@@ -6,4 +6,7 @@ duplicate chapter 13 from Bryan "happygitwithr"
 * adds another header
 * adds bullet list
 * finishes
-"append via shell" 
+
+I *removed* the line added via the shell, unneeded
+
+> This commit will happen using the arrows of the Git panel
